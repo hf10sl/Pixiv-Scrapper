@@ -1,0 +1,7 @@
+.\download
+.\user_download
+.\wallpaper
+*.json
+*.html
+*.log
+cookie*
